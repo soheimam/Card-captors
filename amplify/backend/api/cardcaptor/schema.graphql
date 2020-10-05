@@ -1,0 +1,7 @@
+type Card @model {
+  id: ID!
+  name: String!
+  description: String
+  power:[String!]
+  image:String 
+}

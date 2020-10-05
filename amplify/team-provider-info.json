@@ -1,0 +1,23 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-cardcaptor-dev-170733-authRole",
+            "UnauthRoleArn": "arn:aws:iam::497637930276:role/amplify-cardcaptor-dev-170733-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::497637930276:role/amplify-cardcaptor-dev-170733-authRole",
+            "Region": "eu-central-1",
+            "DeploymentBucketName": "amplify-cardcaptor-dev-170733-deployment",
+            "UnauthRoleName": "amplify-cardcaptor-dev-170733-unauthRole",
+            "StackName": "amplify-cardcaptor-dev-170733",
+            "StackId": "arn:aws:cloudformation:eu-central-1:497637930276:stack/amplify-cardcaptor-dev-170733/abd712b0-032e-11eb-84ab-0a94e6c7e04a",
+            "AmplifyAppId": "d2e8outc3kpxvm"
+        },
+        "categories": {
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d2e8outc3kpxvm",
+                    "type": "cicd"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,1 @@
+export const powers = ['Wind', 'Fire','Earth']
